@@ -1,1 +1,7 @@
 *.swp
+
+addTwoNumbers/
+!/addTwoNumbers/main.cpp
+
+twoSun/
+!twoSum/twoSum.cpp
